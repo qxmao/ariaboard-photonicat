@@ -1,4 +1,4 @@
-# Customize firmware
+# supes.top customize firmware
 
 定制固件：<https://supes.top/?target=rockchip%2Farmv8&id=ariaboard_photonicat>
 
@@ -21,5 +21,4 @@ luci-proto-mbim
 luci-proto-ncm
 pciutils
 usbutils
-which
 ```
