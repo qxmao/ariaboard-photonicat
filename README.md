@@ -8,24 +8,36 @@ GitHub：<https://github.com/photonicat>
 
 ## Hardware
 
-- CPU: Rockchip RK3568, Quad Core Cortex&copy;-A55 @ 2.0GHz
-- GPU: ARM Mali-G52, NPU 0.8Tops
-- RAM: 1GB LPDDR4@1866MHz (Upto 8GB)
-- eMMC: 8G (Upto 128G)
-- USB: USB 3.0 x 1
-- Video Output: HDMI (4k 60fps + Audio) x 1
-- Ethernet: 1GbE x 1
-- WiFi: 802.11 b/g/n/ac (2.4 GHz / 5 GHz)
-- M.2 Ports:
-  - M.2 E-Key x1 (PCIe), Wireless module
-  - M.2 B-Key x1 (4/5G), Mobile module
-- Side Ports:
-  - nanoSIM x1
-  - microSD x1
-- Power: DC 5V @ 3A(Max)
-- Battery: 6800mAh @ 3.7v, 25.1Wh (18650 \* 2)
-- Weight: 180g (without Battery), 285g (5G with Battery)
-- Size: 150mm x 76.5mm x 25mm
+- CPU \
+  Rockchip RK3568, Quad Core Cortex&copy;-A55 @ 2.0GHz
+- GPU \
+  ARM Mali-G52, NPU 0.8Tops
+- RAM \
+  1GB LPDDR4 @ 1866MHz (Upto 8GB)
+- eMMC \
+  8G (Upto 128G)
+- USB \
+  x1 USB 3.0
+- Video Output \
+  x1 HDMI (4k 60fps + Audio)
+- Ethernet \
+  x1 1GbE
+- Wi-Fi \
+  802.11 b/g/n/ac (2.4 GHz / 5 GHz)
+- M.2 Ports \
+  x1 M.2 E-Key (PCIe), Wireless module \
+  x1 M.2 B-Key (4/5G), Mobile module
+- Side Ports \
+  x1 nanoSIM \
+  x1 microSD
+- Power \
+  DC 5V @ 3A(Max)
+- Battery \
+  6800mAh @ 3.7v, 25.1Wh (18650 \* 2)
+- Weight \
+  180g (without Battery), 285g (5G with Battery)
+- Size \
+  150mm x 76.5mm x 25mm
 
 ## Repos
 
