@@ -28,7 +28,7 @@ OK
 
 ## LTE Bands
 
-```console
+```plain
 AT+QNWPREFCFG="lte_band" # 查询当前为 UE 配置的 LTE/4G 频段。默认 1:2:3:5:7:8:20:28:34:38:39:40:41
 +QNWPREFCFG: "lte_band",1:2:3 # 范围：B1~B80；格式：1:2:…:N。
 OK
