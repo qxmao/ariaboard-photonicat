@@ -24,3 +24,4 @@ GitHub：<https://github.com/photonicat>
 - <https://github.com/openwrtkitty/photonicat-hacks>
 - <https://github.com/openwrtkitty/photonicat-ipks>
 - <https://github.com/suzengyi/photonicat>
+- <https://github.com/kzer00/openwrt-packages/blob/master/pcat-manager/Makefile>
