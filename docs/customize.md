@@ -5,10 +5,6 @@
 软件包：
 
 ```plain
-coreutils-base64
-git
-git-http
-git-lfs
 kmod-mhi-wwan-mbim
 kmod-mt7921-firmware
 kmod-mt7922-firmware
@@ -21,15 +17,9 @@ kmod-usb-serial-wwan
 kmod-wwan
 luci-app-atinout
 luci-app-mwan3
-luci-app-poweroff
-luci-app-vlmcsd
 luci-proto-mbim
 luci-proto-ncm
-minicom
 pciutils
-python3
-python3-pyserial
 usbutils
 which
--luci-app-gpsysupgrade
 ```
